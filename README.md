@@ -8,8 +8,8 @@
 ![Tomy's github stats](https://tomy-github-stats.vercel.app/api?username=tomy0000000&show_icons=true&theme=dracula)
 
 - 🏛 Junior student major in computer science at NCHU
-- 🔬 Research assistent in [UDIC Lab](http://udiclab.cs.nchu.edu.tw)
-- 💗 Love beautifully crafted software & product.
+- 🔬 Research assistant at [UDIC Lab](http://udiclab.cs.nchu.edu.tw)
+- 💗 Love finely crafted software & products.
 - 🔭 Currently working on...
   - Some tiny proejcts: [MB-Code](https://github.com/tomy0000000/MB-Code), [PopClip-Transformer](https://github.com/tomy0000000/PopClip-Transformer), [Alfred-ShuangPin-Convert](https://github.com/tomy0000000/Alfred-ShuangPin-Convert)
   - Drafting my first version of personal website
