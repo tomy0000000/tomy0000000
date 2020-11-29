@@ -11,8 +11,8 @@
 - 🔬 Research assistant at [UDIC Lab](http://udiclab.cs.nchu.edu.tw) on Natural Language Processing
 - 💗 Love finely crafted software & products.
 - 🔭 Currently working on...
-  - Explore the possiblity of applying simplification and summarization on transformer-based Question Generation.
-  - Drafting webpage of my curriculum vitae 
+  - Explore the possibility of applying simplification and summarization on transformer-based Question Generation.
+  - Drafting webpage of my [curriculum vitae](https://cv.tomy.me)
 - 👋🏻 Feel free to reachout to me with badges above.
 
 <p align="center">
