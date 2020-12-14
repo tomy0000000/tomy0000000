@@ -12,7 +12,7 @@
 - 💗 Love finely crafted software & products.
 - 🔭 Currently working on...
   - Explore the possibility of applying simplification and summarization on transformer-based Question Generation.
-  - Drafting webpage of my [curriculum vitae](https://cv.tomy.me)
+  - Adding new feature for PyTorch Dockerfile.
 - 👋🏻 Feel free to reachout to me with badges above.
 
 <p align="center">
