@@ -12,8 +12,8 @@
 - 💗 Love finely crafted software & products.
 - 🔭 Currently working on...
   - Explore the possibility of applying simplification and summarization on transformer-based Question Generation.
-  - Adding new feature for PyTorch Dockerfile.
-  - Writing RSS Feed Generator with Scrapy
+  - Studying architecture of various language models
+  - Writing RSS feed generator with Scrapy
 - 👋🏻 Feel free to reachout to me with badges above.
 
 <p align="center">
