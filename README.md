@@ -11,7 +11,7 @@
 - 🔬 Research assistant at [UDIC Lab](http://udiclab.cs.nchu.edu.tw) on Natural Language Processing
 - 💗 Love finely crafted software & products.
 - 🔭 Currently working on...
-  - Explore the possibility of complex-style Question Generation with transformer pre-trained models.
+  - Exploring the possibility of complex-style question generation with pre-trained transformer models.
 - 👋🏻 Feel free to reachout to me with badges above.
 
 <p align="center">
