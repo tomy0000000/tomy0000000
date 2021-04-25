@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomy%20Hsieh-%230077B5?logo=linkedin)](https://www.linkedin.com/in/tomy0000000)
 [![pgp](https://img.shields.io/badge/pgp-9E47A53D54F34479-%2333A0FF?logo=keybase)](https://keybase.io/tomy0000000)
 
-![Tomy's github stats](https://tomy-github-stats.vercel.app/api?username=tomy0000000&show_icons=true&theme=dracula)
+![Tomy's github stats](https://github-readme-stats.vercel.app/api?username=tomy0000000&show_icons=true&hide_title=true&theme=dracula)
 
 - 🏛 Junior student major in computer science at NCHU
 - 🔬 Research assistant at [NLP Lab](http://nlp.cs.nchu.edu.tw)
