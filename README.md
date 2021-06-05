@@ -13,10 +13,12 @@
     <a href="https://keybase.io/tomy0000000"
         ><img src="https://img.shields.io/badge/pgp-9E47A53D54F34479-%2333A0FF?logo=keybase" alt="pgp"
     /></a>
+</p>
+
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tomy0000000&show_icons=true&hide_title=true&hide_border=true&theme=dracula" height=150 alt="Tomy's GitHub stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=tomy0000000&hide_border=true&theme=dracula" height=150 alt="Tomy's GitHub streak stats">
 </p>
-
 
 - 🏛 Junior student major in computer science at NCHU
 - 🔬 Research assistant at [NLP Lab](https://nlpnchu.org)
@@ -25,9 +27,6 @@
   - Exploring the possibility of complex-style question generation with pre-trained transformer models.
 - 👋🏻 Feel free to reachout to me with badges above.
 
-<p align="center">
-    <img src="footer-dark.svg" height="25"/>
-</p>
 <p align="center">
     <img src="footer.svg" height="25"/>
 </p>
