@@ -1,4 +1,4 @@
-<h1 align="center">👨🏻‍💻 Hello There, I'm Tomy Hsieh👋🏻</h1>
+<h1 align="center">👨🏻‍💻 Hello There, I'm Tomy Hsieh 👋🏻</h1>
 
 <p align="center">
     <a href="mailto:tomy0000000@gmail.com"
@@ -24,7 +24,8 @@
 - 🔬 Research assistant at [NLP Lab](https://nlpnchu.org)
 - 💗 Love finely crafted software & products.
 - 🔭 Currently working on...
-  - Exploring the possibility of complex-style question generation with pre-trained transformer models.
+  - A testing visualization framework built with Django, which is my internship works at [@intel](https://github.com/intel).
+  - Speed-running the [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md) series.
 - 👋🏻 Feel free to reachout to me with badges above.
 
 <p align="center">
