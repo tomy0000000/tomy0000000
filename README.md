@@ -26,6 +26,7 @@
 - 🔭 Currently working on...
   - A testing visualization framework built with Django, which is my internship works at [@intel](https://github.com/intel).
   - Speed-running the [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md) series.
+  - Finalizing my first grand-size side project - [Tubee](https://github.com/tomy0000000/Tubee).
 - 👋🏻 Feel free to reachout to me with badges above.
 
 <p align="center">
