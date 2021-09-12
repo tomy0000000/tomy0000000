@@ -25,12 +25,13 @@
 </p>
 
 - 🏛 Junior student major in computer science at NCHU
-- 🔬 Research assistant at [NLP Lab](https://nlpnchu.org)
-- 🏢 Part time software engineering internship at [@intel](https://github.com/intel)
-- 💗 Love finely crafted software & products.
+- 🔬 Research assistant at [@NCHU NLP Lab](https://github.com/NCHU-NLP-Lab)
+- 🏢 Part time software engineering internship at [@Intel](https://github.com/intel)
+- 💗 Love finely-crafted software & products.
 - 🔭 Currently working on...
   - Speed-running the [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md) series.
   - Finalizing my first grand-size side project - [Tubee](https://github.com/tomy0000000/Tubee).
+  - Drawing roadmap for the [NCHU-SDK](https://github.com/tomy0000000/NCHU-SDK) python library.
 - 👋🏻 Feel free to reachout to me with badges above.
 
 <p align="center">
