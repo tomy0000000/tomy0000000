@@ -29,7 +29,6 @@
 - 🏢 Part time software engineering internship at [@Intel](https://github.com/intel)
 - 💗 Love finely-crafted software & products.
 - 🔭 Currently working on...
-  - Speed-running the [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md) series.
   - Finalizing my first grand-size side project - [Tubee](https://github.com/tomy0000000/Tubee).
   - Drawing roadmap for the [NCHU-SDK](https://github.com/tomy0000000/NCHU-SDK) python library.
 - 👋🏻 Feel free to reachout to me with badges above.
