@@ -24,7 +24,7 @@
     /></a>
 </p>
 
-- 🏛 Junior student major in computer science at NCHU
+- 🏛 Senior student major in computer science at NCHU
 - 🔬 Research assistant at [@NCHU NLP Lab](https://github.com/NCHU-NLP-Lab)
 - 🏢 Part time software engineering internship at [@Intel](https://github.com/intel)
 - 💗 Love finely-crafted software & products.
