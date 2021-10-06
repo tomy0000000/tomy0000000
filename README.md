@@ -29,8 +29,8 @@
 - 🏢 Part time software engineering internship at [@Intel](https://github.com/intel)
 - 💗 Love finely-crafted software & products.
 - 🔭 Currently working on...
+  - Building [a unified NLP API](https://github.com/NCHU-NLP-Lab/API) for NCHU NLP Lab.
   - Finalizing my first grand-size side project - [Tubee](https://github.com/tomy0000000/Tubee).
-  - Drawing roadmap for the [NCHU-SDK](https://github.com/tomy0000000/NCHU-SDK) python library.
 - 👋🏻 Feel free to reachout to me with badges above.
 
 <p align="center">
