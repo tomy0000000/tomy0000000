@@ -17,10 +17,10 @@
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=tomy0000000&show_icons=true&hide_title=true&hide_border=true&theme=dracula"
-        ><img src="https://github-readme-stats.vercel.app/api?username=tomy0000000&show_icons=true&hide_title=true&hide_border=true&theme=dracula" height=150  alt="Tomy's GitHub stats"
+        ><img src="https://github-readme-stats.vercel.app/api?username=tomy0000000&show_icons=true&hide_title=true&hide_border=true&theme=dracula" height=140  alt="Tomy's GitHub stats"
     /></a>
     <a href="https://github-readme-streak-stats.herokuapp.com?user=tomy0000000&hide_border=true&theme=dracula"
-        ><img src="https://github-readme-streak-stats.herokuapp.com?user=tomy0000000&hide_border=true&theme=dracula" height=150  alt="Tomy's GitHub streak stats"
+        ><img src="https://github-readme-streak-stats.herokuapp.com?user=tomy0000000&hide_border=true&theme=dracula" height=140  alt="Tomy's GitHub streak stats"
     /></a>
 </p>
 
