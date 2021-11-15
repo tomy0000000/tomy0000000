@@ -29,7 +29,8 @@
 - 🏢 Part time software engineering internship at [@Intel](https://github.com/intel)
 - 💗 Love finely-crafted software & products.
 - 🔭 Currently working on...
-  - Building [a unified NLP API](https://github.com/NCHU-NLP-Lab/API) for NCHU NLP Lab (and another project yet to be announced).
+  - Building [a unified NLP API](https://github.com/NCHU-NLP-Lab/api) for NCHU NLP Lab.
+  - [Querator](https://github.com/NCHU-NLP-Lab/querator): Question Generation Demo Platform backed by the fore-mentioned API.
 - 👋🏻 Feel free to reachout to me with badges above.
 
 <p align="center">
