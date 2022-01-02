@@ -24,12 +24,11 @@
     /></a>
 </p>
 
-- 🏛 Senior student major in computer science at NCHU
-- 🔬 Research assistant at [@NCHU NLP Lab](https://github.com/NCHU-NLP-Lab)
+- 🏛 Exchange student from NCHU to ECE Paris
 - 💗 Love finely-crafted software & products.
 - 🔭 Currently working on...
-  - Building [a unified NLP API](https://github.com/NCHU-NLP-Lab/api) for NCHU NLP Lab.
-  - [Querator](https://github.com/NCHU-NLP-Lab/querator): Question Generation Demo Platform backed by the fore-mentioned API.
+  - My vacation plan
+  - Some minor toy projects
 - 👋🏻 Feel free to reach out to me with badges above.
 
 <p align="center">
