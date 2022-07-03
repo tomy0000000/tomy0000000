@@ -24,11 +24,10 @@
     /></a>
 </p>
 
-- 🏛 Exchange student from NCHU to ECE Paris
+- 🏛 Graduating CS student of NCHU.
 - 💗 Love finely-crafted software & products.
 - 🔭 Currently working on...
-  - My vacation plan
-  - Some minor toy projects
+  - Building a Full stack Digital Ledger
 - 👋🏻 Feel free to reach out to me with badges above.
 
 <p align="center">
