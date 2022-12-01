@@ -24,11 +24,11 @@
     /></a>
 </p>
 
-- 🏛 Graduating CS student of NCHU.
-- 💗 Love finely-crafted software & products.
+- 🏛 Prospective Master Student in Computer Science
+- 💗 Love finely-crafted software & products
 - 🔭 Currently working on...
   - Building a Full stack Digital Ledger
-- 👋🏻 Feel free to reach out to me with badges above.
+- 👋🏻 Feel free to reach out to me with badges above
 
 <p align="center">
     <img src="footer.svg" height="25"/>
