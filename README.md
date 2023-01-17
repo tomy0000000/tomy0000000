@@ -11,7 +11,7 @@
         ><img src="https://img.shields.io/badge/Twitter-tomy0000000-blue?logo=twitter&logoColor=white" alt="Twitter"
     /></a>
     <a href="https://keybase.io/tomy0000000"
-        ><img src="https://img.shields.io/badge/pgp-9E47--A53D--54F3--4479-blue?logo=keybase&logoColor=white" alt="PGP Key"
+        ><img src="https://img.shields.io/badge/pgp-4E6A--F0EE--DD22--05F8-blue?logo=keybase&logoColor=white" alt="PGP Key"
     /></a>
 </p>
 
