@@ -29,8 +29,12 @@
     </a>
 </p>
 
-- 🏛 Prospective Master's student in Computer Science (Admitted)
-- 💼 **I'm open to work, see more details in my [LinkedIn post](https://www.linkedin.com/posts/tomy0000000_computerscience-opportunities-remote-activity-7011364262048673792-hR3_)**
+- 🏛 Prospective student of Master's of Software Engineering at Carnegie Mellon University (Fall 2023)
+- 🇹🇭 Workationing at Bangkok, Thailand.
+- 💼 **Open to Work** for following duration, connect me on LinkedIn for 
+  - Summer 2022: On-site at 🇹🇼 Taiwan / Remote
+  - Summer 2023: On-site at 🇺🇸 US / Remote
+  - For my speciallize field, checkout my post on [LinkedIn](https://www.linkedin.com/posts/tomy0000000_computerscience-opportunities-remote-activity-7011364262048673792-hR3_)
 - 💗 Love finely-crafted software & products
 - 🔭 Currently working on...
   - Refining my projects roadmap
