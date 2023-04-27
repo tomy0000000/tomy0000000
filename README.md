@@ -30,7 +30,7 @@
 </p>
 
 - 🏛 Prospective student of Master's of Software Engineering at Carnegie Mellon University (Fall 2023)
-- 🇹🇭 Workationing at Bangkok, Thailand.
+- 🇻🇳 Workationing at Ho Chi Minh City, Vietnam.
 - 💼 **Open to Work** for following duration, connect me on LinkedIn for 
   - Summer 2022: On-site at 🇹🇼 Taiwan / Remote
   - Summer 2023: On-site at 🇺🇸 US / Remote
