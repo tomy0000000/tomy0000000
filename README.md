@@ -30,15 +30,14 @@
 </p>
 
 - 🏛 Prospective student of Master's of Software Engineering at Carnegie Mellon University (Fall 2023)
-- 🇻🇳 Workationing at Ho Chi Minh City, Vietnam.
 - 💼 **Open to Work** for following duration, connect me on LinkedIn for 
   - Summer 2022: On-site at 🇹🇼 Taiwan / Remote
   - Summer 2023: On-site at 🇺🇸 US / Remote
   - For my speciallize field, checkout my post on [LinkedIn](https://www.linkedin.com/posts/tomy0000000_computerscience-opportunities-remote-activity-7011364262048673792-hR3_)
 - 💗 Love finely-crafted software & products
 - 🔭 Currently working on...
-  - Refining my projects roadmap
-  - Setting up my blog and main website
+  - Finiting my recent side project: [AppShelf](https://github.com/tomy0000000/appshelf)
+  - Writing post on my [blog](https://blog.tomy.me/zh-tw/?utm_source=github&utm_medium=profile&utm_campaign=promote)
 - 👋🏻 Feel free to reach out to me with badges above
 
 <p align="center">
