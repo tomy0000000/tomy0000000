@@ -30,10 +30,7 @@
 </p>
 
 - 🏛 Prospective student of Master's of Software Engineering at Carnegie Mellon University (Fall 2023)
-- 💼 **Open to Work** for following duration, connect me on LinkedIn for 
-  - Summer 2022: On-site at 🇹🇼 Taiwan / Remote
-  - Summer 2023: On-site at 🇺🇸 US / Remote
-  - For my speciallize field, checkout my post on [LinkedIn](https://www.linkedin.com/posts/tomy0000000_computerscience-opportunities-remote-activity-7011364262048673792-hR3_)
+- 💼 **Seeking opportunity for On-site 🇺🇸 US / Remote Summer 2024 Internship, connect with me on LinkedIn**
 - 💗 Love finely-crafted software & products
 - 🔭 Currently working on...
   - Finiting my recent side project: [AppShelf](https://github.com/tomy0000000/appshelf)
