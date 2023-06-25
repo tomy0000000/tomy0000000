@@ -27,15 +27,28 @@
             <img src="https://github-streak-stats.tomy.tech?user=tomy0000000&hide_border=true&ring=FF6E96&fire=FF6E96&currStreakNum=9580FF&sideNums=FF6E96&currStreakLabel=9580FF&sideLabels=FF6E96" height=140  alt="Tomy's GitHub streak stats" />
         </picture>
     </a>
+    <a href="https://leetcode.com/tomy0000000">
+        <picture>
+            <source
+              srcset="https://leetcard.jacoblin.cool/tomy0000000?theme=light&border=0"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <source 
+              srcset="https://leetcard.jacoblin.cool/tomy0000000?theme=dark&border=0"
+              media="(prefers-color-scheme: dark)"
+            />
+            <img src="https://leetcard.jacoblin.cool/tomy0000000?theme=light&border=0" height=140  alt="Tomy's LeetCode stats" />
+        </picture>
+    </a>
 </p>
 
 - 🏛 Prospective student of Master's of Software Engineering at Carnegie Mellon University (Fall 2023)
 - 💼 **Seeking opportunity for On-site 🇺🇸 US / Remote Summer 2024 Internship, connect with me on LinkedIn**
 - 💗 Love finely-crafted software & products
 - 🔭 Currently working on...
-  - Finiting my recent side project: [AppShelf](https://github.com/tomy0000000/appshelf)
-  - Writing post on my [blog](https://blog.tomy.me/zh-tw/?utm_source=github&utm_medium=profile&utm_campaign=promote)
-- 👋🏻 Feel free to reach out to me with badges above
+  - Finalize my recent side project: [AppShelf](https://github.com/tomy0000000/appshelf)
+  - Writing posts on my [blog](https://blog.tomy.me/zh-tw/?utm_source=github&utm_medium=profile&utm_campaign=promote)
+- 👋🏻 Feel free to reach out to me with the badges above
 
 <p align="center">
     <img src="footer.svg" height="25"/>
