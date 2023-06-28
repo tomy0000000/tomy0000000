@@ -1,17 +1,17 @@
 <h1 align="center">👨🏻‍💻 Hello There, I'm Tomy Hsieh 👋🏻</h1>
 
 <p align="center">
-    <a href="https://github-stats.tomy.tech/api?username=tomy0000000&show_icons=true&hide_title=true&hide_border=true&icon_color=9580ff&title_color=ff6e96">
+    <a href="https://github-stats.tomy.tech/api?username=tomy0000000&rank_icon=percentile&show_icons=true&hide_title=true&hide_border=true&icon_color=9580ff&title_color=ff6e96">
         <picture>
             <source
-              srcset="https://github-stats.tomy.tech/api?username=tomy0000000&show_icons=true&hide_title=true&hide_border=true&icon_color=9580ff&title_color=ff6e96"
+              srcset="https://github-stats.tomy.tech/api?username=tomy0000000&rank_icon=percentile&show_icons=true&hide_title=true&hide_border=true&icon_color=9580ff&title_color=ff6e96"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <source 
-              srcset="https://github-stats.tomy.tech/api?username=tomy0000000&show_icons=true&hide_title=true&hide_border=true&theme=dracula"
+              srcset="https://github-stats.tomy.tech/api?username=tomy0000000&rank_icon=percentile&show_icons=true&hide_title=true&hide_border=true&theme=dracula"
               media="(prefers-color-scheme: dark)"
             />
-            <img src="https://github-stats.tomy.tech/api?username=tomy0000000&show_icons=true&hide_title=true&hide_border=true&icon_color=9580ff&title_color=ff6e96" height=140  alt="Tomy's GitHub stats" />
+            <img src="https://github-stats.tomy.tech/api?username=tomy0000000&rank_icon=percentile&show_icons=true&hide_title=true&hide_border=true&icon_color=9580ff&title_color=ff6e96" height=140  alt="Tomy's GitHub stats" />
         </picture>
     </a>
     <a href="https://github-streak-stats.tomy.tech?user=tomy0000000&hide_border=true&ring=FF6E96&fire=FF6E96&currStreakNum=9580FF&sideNums=FF6E96&currStreakLabel=9580FF&sideLabels=FF6E96">
