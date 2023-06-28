@@ -40,6 +40,19 @@
             <img src="https://leetcard.jacoblin.cool/tomy0000000?theme=light&border=0" height=140  alt="Tomy's LeetCode stats" />
         </picture>
     </a>
+    <a href="https://wakatime.com/@tomy0000000">
+        <picture>
+            <source
+              srcset="https://github-stats.tomy.tech/api/wakatime?username=tomy0000000&title_color=ff6e96&icon_color=9580ff&hide_border=true&layout=compact"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <source 
+              srcset="https://github-stats.tomy.tech/api/wakatime?username=tomy0000000&hide_border=true&theme=dracula&layout=compact"
+              media="(prefers-color-scheme: dark)"
+            />
+            <img src="https://github-stats.tomy.tech/api/wakatime?username=tomy0000000&title_color=ff6e96&icon_color=9580ff&hide_border=true&layout=compact" height=140  alt="Tomy's LeetCode stats" />
+        </picture>
+    </a>
 </p>
 
 - 🏛 Prospective student of Master's of Software Engineering at Carnegie Mellon University (Fall 2023)
