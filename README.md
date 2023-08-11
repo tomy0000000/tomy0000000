@@ -43,11 +43,11 @@
     <a href="https://wakatime.com/@tomy0000000">
         <picture>
             <source
-              srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tomy0000000&title_color=ff6e96&icon_color=9580ff&hide_border=true&layout=compact"
+              srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tomy0000000&title_color=ff6e96&icon_color=9580ff&hide_border=true&layout=compact&langs_count=8"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <source 
-              srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tomy0000000&hide_border=true&theme=dracula&layout=compact"
+              srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tomy0000000&hide_border=true&theme=dracula&layout=compact&langs_count=8"
               media="(prefers-color-scheme: dark)"
             />
             <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tomy0000000&title_color=ff6e96&icon_color=9580ff&hide_border=true&layout=compact" height=140  alt="Tomy's LeetCode stats" />
@@ -55,11 +55,10 @@
     </a>
 </p>
 
-- 🏛 Prospective student of Master's of Software Engineering at Carnegie Mellon University (Fall 2023)
+- 🏛 Master's of Software Engineering at Carnegie Mellon University, Class of 2024
 - 💼 **Seeking opportunity for On-site 🇺🇸 US / Remote Summer 2024 Internship, connect with me on LinkedIn**
 - 💗 Love finely-crafted software & products
 - 🔭 Currently working on...
-  - Finalize my recent side project: [AppShelf](https://github.com/tomy0000000/appshelf)
   - Writing posts on my [blog](https://blog.tomy.me/zh-tw/?utm_source=github&utm_medium=profile&utm_campaign=promote)
 - 👋🏻 Feel free to reach out to me with the badges above
 
