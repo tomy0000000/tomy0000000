@@ -60,6 +60,9 @@
 - 💗 Love finely-crafted software & products
 - 🔭 Currently working on...
   - Writing posts on my [blog](https://blog.tomy.me/zh-tw/?utm_source=github&utm_medium=profile&utm_campaign=promote)
+- ❓ Why follow me on GitHub?
+  - Cause I star many interesting projects and compile them into awesome lists
+  - Check them out in my [Star](https://github.com/tomy0000000?tab=stars) tab
 - 👋🏻 Feel free to reach out to me with the badges above
 
 <p align="center">
