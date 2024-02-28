@@ -1,7 +1,7 @@
 <h1 align="center">👨🏻‍💻 Hello There, I'm Tomy Hsieh 👋🏻</h1>
 
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=tomy0000000&title_color=ff6e96&icon_color=9580ff&hide_border=true&hide_title=true&rank_icon=percentile&show_icons=true">
+    <a href="https://github.com/search?q=author%3Atomy0000000+-owner%3Atomy0000000+is%3Amerged&type=pullrequests">
         <picture>
             <source
               srcset="https://github-readme-stats.vercel.app/api?username=tomy0000000&title_color=ff6e96&icon_color=9580ff&hide_border=true&hide_title=true&rank_icon=percentile&show_icons=true"
@@ -53,11 +53,25 @@
             <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tomy0000000&title_color=ff6e96&icon_color=9580ff&hide_border=true&layout=compact" height=140  alt="Tomy's LeetCode stats" />
         </picture>
     </a>
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=tomy0000000&hide_border=true&bg_color=ffffff&color=9580ff&title_color=ff6e96&line=ff6e96&point=9580ff">
+        <picture>
+            <source
+              srcset="https://github-readme-activity-graph.vercel.app/graph?username=tomy0000000&hide_border=true&bg_color=ffffff&color=9580ff&title_color=ff6e96&line=ff6e96&point=9580ff"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <source 
+              srcset="https://github-readme-activity-graph.vercel.app/graph?username=tomy0000000&hide_border=true&bg_color=282a36&color=f8f8f2&title_color=ff6e96&line=ff6e96&point=79dafa"
+              media="(prefers-color-scheme: dark)"
+            />
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=tomy0000000&hide_border=true&bg_color=ffffff&color=9580ff&title_color=ff6e96&line=ff6e96&point=9580ff" height=280  alt="Tomy's GitHub stats" />
+        </picture>
+    </a>
 </p>
 
 - 🏛 Master's of Software Engineering at Carnegie Mellon University, Class of 2024
 - 💼 **Seeking opportunity for On-site 🇺🇸 US / Remote Summer 2024 Internship, connect with me on LinkedIn**
-- 💗 Love finely-crafted software & products
+- 💪🏻 [Long-time contributors](https://github.com/search?q=author%3Atomy0000000+-owner%3Atomy0000000+is%3Amerged&type=pullrequests) to Open-source communities
+- 🫶🏻 Love finely-crafted software & products
 - 🔭 Currently working on...
   - Writing posts on my [blog](https://blog.tomy.me/zh-tw/?utm_source=github&utm_medium=profile&utm_campaign=promote)
 - ❓ Why follow me on GitHub?
