@@ -77,7 +77,7 @@
 - ❓ Why follow me on GitHub?
   - Cause I star many interesting projects and compile them into awesome lists
   - Check them out in my [Star](https://github.com/tomy0000000?tab=stars) tab
-- 👋🏻 Feel free to reach out to me with the badges above
+- 👋🏻 Feel free to reach out
 
 <p align="center">
     <img src="footer.svg" height="25"/>
