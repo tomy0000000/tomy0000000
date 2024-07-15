@@ -43,11 +43,11 @@
     <a href="https://wakatime.com/@tomy0000000">
         <picture>
             <source
-              srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tomy0000000&title_color=ff6e96&icon_color=9580ff&hide_border=true&layout=compact&langs_count=8"
+              srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tomy0000000&title_color=ff6e96&icon_color=9580ff&hide_border=true&layout=compact&hide=other&langs_count=8"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <source 
-              srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tomy0000000&hide_border=true&theme=dracula&layout=compact&langs_count=8"
+              srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tomy0000000&hide_border=true&theme=dracula&layout=compact&hide=other&langs_count=8"
               media="(prefers-color-scheme: dark)"
             />
             <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tomy0000000&title_color=ff6e96&icon_color=9580ff&hide_border=true&layout=compact" height=140  alt="Tomy's LeetCode stats" />
