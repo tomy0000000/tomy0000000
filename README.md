@@ -68,7 +68,7 @@
     </a>
 </p>
 
-- 🏛 Master's of Software Engineering at Carnegie Mellon University, Class of 2025
+- 🏛 Master's of Software Engineering at Carnegie Mellon University, Class of 2024
 - 💼 **Seeking opportunity for 🇺🇸 US 2025 Full Time SWE, connect with me on LinkedIn**
 - 💪🏻 [Long-time contributors](https://github.com/search?q=author%3Atomy0000000+-owner%3Atomy0000000+is%3Amerged&type=pullrequests) to Open-source communities
 - 🫶🏻 Love finely-crafted software & products
