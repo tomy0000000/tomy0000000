@@ -69,11 +69,12 @@
 </p>
 
 - 🏛 Master's of Software Engineering at Carnegie Mellon University, Class of 2024
-- 💼 **Seeking opportunity for 🇺🇸 US 2025 Full Time SWE, connect with me on LinkedIn**
+- 💼 SWE @ WeRide.ai
 - 💪🏻 [Long-time contributors](https://github.com/search?q=author%3Atomy0000000+-owner%3Atomy0000000+is%3Amerged&type=pullrequests) to Open-source communities
 - 🫶🏻 Love finely-crafted software & products
 - 🔭 Currently working on...
   - Writing posts on my [blog](https://blog.tomy.me/zh-tw/?utm_source=github&utm_medium=profile&utm_campaign=promote)
+  - [Kayman](https://github.com/tomy0000000/kayman): My personal finance dashboard
 - ❓ Why follow me on GitHub?
   - Cause I star many interesting projects and compile them into awesome lists
   - Check them out in my [Star](https://github.com/tomy0000000?tab=stars) tab
