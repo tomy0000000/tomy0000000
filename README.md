@@ -69,7 +69,7 @@
 </p>
 
 - 🏛 Master's of Software Engineering at Carnegie Mellon University, Class of 2024
-- 💼 SWE @ WeRide.ai
+- 💼 SWE @ Robinhood
 - 💪🏻 [Long-time contributors](https://github.com/search?q=author%3Atomy0000000+-owner%3Atomy0000000+is%3Amerged&type=pullrequests) to Open-source communities
 - 🫶🏻 Love finely-crafted software & products
 - 🔭 Currently working on...
