@@ -14,17 +14,17 @@
             <img src="https://github-stats-extended.vercel.app/api?username=tomy0000000&title_color=ff6e96&icon_color=9580ff&hide_border=true&hide_title=true&rank_icon=percentile&show_icons=true" height=140  alt="Tomy's GitHub stats" />
         </picture>
     </a>
-    <a href="https://github-streak-stats.tomy.tech?user=tomy0000000&hide_border=true&ring=FF6E96&fire=FF6E96&currStreakNum=9580FF&sideNums=FF6E96&currStreakLabel=9580FF&sideLabels=FF6E96">
+    <a href="https://streak-stats.demolab.com?user=tomy0000000&hide_border=true&ring=FF6E96&fire=FF6E96&currStreakNum=9580FF&sideNums=FF6E96&currStreakLabel=9580FF&sideLabels=FF6E96">
         <picture>
             <source
-              srcset="https://github-streak-stats.tomy.tech?user=tomy0000000&hide_border=true&ring=FF6E96&fire=FF6E96&currStreakNum=9580FF&sideNums=FF6E96&currStreakLabel=9580FF&sideLabels=FF6E96"
+              srcset="https://streak-stats.demolab.com?user=tomy0000000&hide_border=true&ring=FF6E96&fire=FF6E96&currStreakNum=9580FF&sideNums=FF6E96&currStreakLabel=9580FF&sideLabels=FF6E96"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <source 
-              srcset="https://github-streak-stats.tomy.tech?user=tomy0000000&hide_border=true&theme=dracula"
+              srcset="https://streak-stats.demolab.com?user=tomy0000000&hide_border=true&theme=dracula"
               media="(prefers-color-scheme: dark)"
             />
-            <img src="https://github-streak-stats.tomy.tech?user=tomy0000000&hide_border=true&ring=FF6E96&fire=FF6E96&currStreakNum=9580FF&sideNums=FF6E96&currStreakLabel=9580FF&sideLabels=FF6E96" height=140  alt="Tomy's GitHub streak stats" />
+            <img src="https://streak-stats.demolab.com?user=tomy0000000&hide_border=true&ring=FF6E96&fire=FF6E96&currStreakNum=9580FF&sideNums=FF6E96&currStreakLabel=9580FF&sideLabels=FF6E96" height=140  alt="Tomy's GitHub streak stats" />
         </picture>
     </a>
     <a href="https://leetcode.com/tomy0000000">
